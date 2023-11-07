@@ -8,4 +8,10 @@ ElevaSense is an innovative elevator system that incorporates cutting-edge techn
 
 **Hand Landmarks:** ElevaSense utilizes hand landmarks to enhance user interaction and accessibility.
 
+# Installation
+- Clone this repository to your elevator control system.
+- Install the required dependencies.
+- Run the following command to install the dependencies listed in "requirements.txt" 
+```bash
+pip install -r requirements.txt
 
