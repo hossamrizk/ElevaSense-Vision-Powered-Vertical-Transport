@@ -1,4 +1,3 @@
-
 # Set GPIO pin numbers
 import RPi.GPIO as GPIO
 import time
