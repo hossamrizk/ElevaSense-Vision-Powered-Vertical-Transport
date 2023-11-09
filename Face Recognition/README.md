@@ -15,3 +15,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install opencv-python numpy face_recognition
+```
+
+## Note!
+Change the directory of persons file which includes data to be suitable for ur case
